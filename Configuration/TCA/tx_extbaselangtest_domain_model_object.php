@@ -107,7 +107,6 @@ return [
                 ],
             ],
         ],
-
         'property1' => [
             'exclude' => true,
             'label' => 'LLL:EXT:extbaselangtest/Resources/Private/Language/locallang_db.xlf:tx_extbaselangtest_domain_model_object.property1',
@@ -136,6 +135,5 @@ return [
                 'eval' => 'trim',
             ],
         ],
-
     ],
 ];

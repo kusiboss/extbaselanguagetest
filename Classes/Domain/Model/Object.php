@@ -18,7 +18,6 @@ namespace Webwaren\Extbaselangtest\Domain\Model;
 class Object extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity
 {
 
-
     /**
      * @var int
      */
@@ -98,6 +97,7 @@ class Object extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity
 
     /**
      * @param int $obj
+     * @return void
      */
     public function setTranslationParent($obj)
     {
@@ -118,8 +118,6 @@ class Object extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity
     public function getLanguageUid() {
         return $this->_languageUid;
     }
-
-
 
     /**
      * Set values
@@ -145,7 +143,5 @@ class Object extends \TYPO3\CMS\Extbase\DomainObject\AbstractEntity
             $this->property2 = $values['property2_fr'];
         }
     }
-
-
 
 }
