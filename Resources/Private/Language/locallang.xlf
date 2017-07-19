@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-07-18T16:17:36Z" product-name="extbaselangtest">
+		<header/>
+		<body>
+			<trans-unit id="tx_extbaselangtest_domain_model_object">
+				<source>Object</source>
+			</trans-unit>
+			<trans-unit id="tx_extbaselangtest_domain_model_object.property1">
+				<source>Property1</source>
+			</trans-unit>
+			<trans-unit id="tx_extbaselangtest_domain_model_object.property2">
+				<source>Property2</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

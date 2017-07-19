@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-07-18T16:17:36Z" product-name="extbaselangtest">
+		<header/>
+		<body>
+			<trans-unit id="property1.description">
+				<source>property1</source>
+			</trans-unit>
+			<trans-unit id="property2.description">
+				<source>property2</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
